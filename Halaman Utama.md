@@ -3,7 +3,6 @@
       DOCUMENTATION FOR ASI ASSESSMENT CENTER REPORT GENERATOR
     </h1>
 </div>
-<div>
 <style>
 p {
     text-indent: 30px;
@@ -23,8 +22,6 @@ p {
             color: white;
         }
 </style>
-</div>
-
 <div style="text-align: Justify;">
    <h3>
       Documentation Description 
